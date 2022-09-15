@@ -47,3 +47,5 @@ print(rmse_2)
 #Conclusion: Here, we see that adding these additional features to the model does not improve its accuracy. 
 # This is likely because it is basically impossible to meaningfully predict a major stock index such as the S&P 500 based only on the data we used in this model. 
 # If it was possible to make such predictions, people would buy and sell based on them and the market would correct itself (see the Efficient Market Hypothesis).
+
+print('test')
