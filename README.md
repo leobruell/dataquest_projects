@@ -1,2 +1,2 @@
-# Projects
-The Guided Projects folder contains the projects I completed as a part of Dataquest courses. Dataquest is an online learning website that offers courses in Data Science and Data Engineering, and the courses require the completion of various data projects. 
+# Dataquest Projects
+This repo containss all the projects I completed for Dataquest's courses in [Data Science](https://www.dataquest.io/path/data-scientist/) and [Data Engineering](https://www.dataquest.io/path/data-engineering/).  
